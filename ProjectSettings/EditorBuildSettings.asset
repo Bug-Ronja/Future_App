@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/StartPage.unity
+    guid: f25d8dba0e46e4445bbecc449f460189
+  - enabled: 1
+    path: Assets/Scenes/Camera/ImageTracking.unity
+    guid: ed7cadc00fc88a44ca746ba179ebf4a2
+  - enabled: 1
+    path: Assets/Scenes/Camera/PlaneTracking.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menus/Options.unity
+    guid: 1d6c460851ac934499f467e1b452c71d
+  - enabled: 1
+    path: Assets/Scenes/Menus/AllMagazines.unity
+    guid: 170589adf6fe73c4e95957e5d1cd57c1
+  - enabled: 1
+    path: Assets/Scenes/Articles/Edition 1.unity
+    guid: cc8c1c122a962634daa4fab497966b40
+  - enabled: 1
+    path: Assets/Scenes/Menus/Favorites.unity
+    guid: 24c29b8e8be735349a7641527d11bb03
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f90b0f58989926745981b46db13d7f6f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7839f9f604c0c4646bad2f91f72750dc, type: 2}

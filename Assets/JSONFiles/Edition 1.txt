@@ -1,0 +1,52 @@
+{
+    "content": [
+        {
+            "edition": "Edition 1",
+            "link": "https:\/\/www.yankodesign.com\/2016\/12\/09\/audi-from-roads-to-clothes\/",
+            "title": "From Roads to Clothes",
+            "article": "Designers seem to show a lot of love towards Audi. Scan through YD and you’ll find it decorated with Audi concepts ranging from the obvious automobiles all to now even consumer appliances!?\nAdding to that ever growing list of conceptual Audi designs is the Audi iron by Jaehyuk Lim. The Audi brand is all about superiority and dominance and the iron design does that with its space-age form language! A recessed LED strip on the base illuminates when switched on, also serving as a color indication of the temperature. I assume the way the steam escapes from the underside of the iron adds to the drama of the futuristic lighting. Sounds like something Audi would do, right?!\nP.S. You can’t miss the ever so charismatic chrome logo on the front of the iron. Gives it almost the feel of a car, driving forwards and backwards on your clothes!"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "https:\/\/www.entrepreneur.com\/article\/240580",
+            "title": "Far out Tech",
+            "article": "Smartphone addicts will want to pay close attention to this.\nSay, for example, you're taking a shower or relaxing in a hot bath. Your smartphone is nowhere near your wet, soapy hands. Just then an important email comes in. You either have to ignore the message until you're done or prematurely have to jump out and dry off. Not fun. Not convenient.\nThe inventors of something called Cicret (pronounced \"secret\") want to change that. With the simple flick of your wrist, the Cicret bracelet can project your smartphone’s display onto your forearm. Your arm essentially becomes a fully interactive display - a swipeable, touch-sensitive, full-color one that allows you to read and send emails, get directions, you name it.\nBasically, Cicret lets you do everything you do on your phone on your forearm, palm up or palm down, depending on which way you wear it. Per Cicret’s website, you can rock it to \"Read your emails, play your favorite games, answer your calls, check the weather, find your way...Do whatever you want on your arm.\"\nHow it works isn’t, well, much of a Cicret, er, secret. The promo video explains that the snap-on device works its magic using an embedded system that includes one mini projector, one microprocessor and eight long-range proximity sensors. It’s also packed with lots of other geeky goodies like Wi-Fi, Bluetooth, \"vibrator,\" micro USB port, battery, LED light components. Oh, and it comes in either 16-GB or 32-GB, and in 10 fun colors.\nAlso in the promo clip, the bracelet appears to be activated in a quick flick of the wrist. The smooth move instantly lights up a projection of a nearby Bluetooth-paired smartphone (notably an Android), illuminating several inches along the user’s wrist. Pretty bright idea, eh?\nThe one thing you can’t do unfortunately is get one right now. Cicret is still only in prototype mode. Soul crushing as that is, you can’t even pre-order one yet, either.\nCicret’s Paris-based developers say they still need to raise about $1.2 million dollars to make the project a reality. They’re opting for their own PayPal fundraising campaign, forgoing trendy crowdfunding on Kickstarter and on Indiegogo. They recently failed to fund an ephemeral, Snapchat-like messaging app on the latter, ponying up a mere $15 of their $50,000 goal. Let’s hope it’s not a bad omen for their brilliant wearable offering.\nA beta version of the free app, simply called Cicret, is, however, available on Google Play. We’re guessing they want you to use it on their wristlet, you know, when you’re not busy taking a call in tub. Two questions remain: Does it work under water? And how much will one cost?"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "https:\/\/www.yankodesign.com\/2010\/11\/29\/blackberry-wants-your-empathy\/",
+            "title": "Blackberry Empathy",
+            "article": "There is no Article"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "https:\/\/www.ifitshipitshere.com\/everything-you-need-to-know-about-the-lexus-hoverboard\/",
+            "title": "Back to the Future",
+            "article": "The exciting news? Lexus has finally completed the design and testing of their hoverboard after 18 long months. The disappointing news? It’s a prototype and is not, nor will it be, available for purchase. That said, I’ve got all the latest pictures, videos and information for you straight from Japan, courtesy of Lexus International.\nThe Lexus Hoverboard is a project designed to showcase the innovation, imagination and design for Lexus International.\nFollowing the unveiling of the Lexus Hoverboard in June, Lexus is completing a full and final reveal of the project concluding a successful testing phase which took place in Cubelles, Barcelona.\nMark Templin, Executive Vice President at Lexus International said: \"Embarking on this project, we set out to push the boundaries of technology, design and innovation to make the impossible possible. With this project we call 'SLIDE', we collaborated with partners who share our passion for creating enjoyment out of motion. Even through combining our technology and expertise, we discovered making a hoverboard isn’t an easy process. We’ve experienced the highs and lows and have overcome a few challenges, but through mutual determination we have created a demonstration of our philosophy in design and technology to create Amazing in Motion.\"\nSLIDE\nThe Lexus Hoverboard film called \"SLIDE\" features the high performance GS F and is part of the fourth project in the Lexus \"Amazing in Motion\" campaign series that showcases creativity and innovation from the Lexus brand.\nThe Lexus Hoverboard project began 18 months ago through a collaboration with a team of scientists from IFW Dresden and evico GmbH, who specialize in magnetic levitation technology. Following extensive testing with pro skateboarder and hoverboard test rider Ross McGouran, in Dresden, Germany, the team were determined to push the hoverboard to its limits and conduct further tests within dynamic surroundings.\n\"I’ve spent 20 years skateboarding, but without friction it feels like I’ve had to learn a whole new skill, particularly in the stance and balance in order to ride the hoverboard. It’s a whole new experience,\" said pro skateboarder and hoverboard test rider Ross McGouran.\nSince the Lexus Hoverboard was unveiled in June, testing has been carried out in a specially constructed hoverpark, combining elements from skate culture with technology within its architecture. Up to 200 meters of magnetic track was transported to Barcelona from the Dresden facility to lay beneath the hoverpark surface in order to create the dynamic test, offering Lexus the opportunity to demonstrate tricks no skateboard could ever perform, like travelling across water.\nTHE HOVERPARK\nDesigning the park took old and new principles of motion and skateboarding, but also pushed the hoverboard test rider to re-master his abilities to discover how style, tricks and technique created the modern ride.\nTHE TECHNOLOGY\nThe Lexus Hoverboard technology features two \"cryostats\" - reservoirs in which superconducting material is kept at -197 degrees through immersion in liquid nitrogen.\nThe board is then placed above a track that contains permanent magnets. Dr. Oliver de Hass, evico CEO, said: \"The magnetic field from the track is effectively 'frozen' into the superconductors in the board, maintaining the distance between the board and the track - essentially keeping the board hovering. This force is strong enough to allow the rider to stand and even jump on the board.\"\nEvery part of SLIDE required masters of design, technology and skateboarding to re-imagine their craft. The stories that came from this journey are as awe-inspiring as the final experience.\nCreating SLIDE required re-engineering core technologies and uncovering true technical innovations. From assembling maglev technology into a board, to finding the right combination of superconductors, magnets and liquid nitrogen - every step pushed the team to stretch the possibilities of technology.\nINITIAL TESTING\nIt took months of testing to transform maglev technology into a refined track and board. From building a new track, to figuring out the perfect amount of lift, to our hoverboarder testing days on end to get the Lexus Hoverboard ready to ride.\nTHE BOARD\nLike all Lexus design, the board’s design features a balance of crafted details, modern materials and technical innovation. Inspired by classic skateboarding and Lexus design principles, the result is the perfect balance of the natural and high tech.\nTHE DETAILS\nAside from fitting big technology into a very small package, wrapped in a design that is uniquely Lexus, the Hoverboard features the iconic Lexus spindle grille signature shape and uses materials found across the Lexus brand, from the high tech carbon fiber to natural bamboo.\n\"Amazing in Motion\" is an inspiring set of global projects, created by Lexus International to showcase its imagination, innovation and design excellence. It builds on the Lexus ambition to connect with the hearts, as well as the minds, of the consumer. SLIDE is the 4th in the series of the Amazing in Motion campaign."
+        },
+        {
+            "edition": "Edition 1",
+            "link": "No link available",
+            "title": "Stay cool!",
+            "article": "There is no Article"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "https:\/\/www.yankodesign.com\/2021\/05\/09\/this-portable-home-air-purifier-uses-the-same-filtration-technology-found-on-the-international-space-station\/",
+            "title": "From Space",
+            "article": "There is no Article"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "No link available",
+            "title": "Print Wood?",
+            "article": "There is no Article"
+        },
+        {
+            "edition": "Edition 1",
+            "link": "No link available",
+            "title": "Modular Campers",
+            "article": "There is no Article"
+        }
+    ]
+}

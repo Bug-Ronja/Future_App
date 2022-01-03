@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5458659924192250000
+  m_GuidHigh: 8948174288218454195
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5438858040393287422
+      m_GuidHigh: 17638740167197727421
+    m_SerializedTextureGuid:
+      m_GuidLow: 16407931483658009988
+      m_GuidHigh: 17583547320442494491
+    m_Size: {x: 0.1, y: 0.11111111}
+    m_SpecifySize: 1
+    m_Name: HoverBoardObject
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5705337156804412938
+      m_GuidHigh: 6231043289032997543
+    m_SerializedTextureGuid:
+      m_GuidLow: 11449489806157150064
+      m_GuidHigh: 3356439768428882634
+    m_Size: {x: 0.1, y: 0.08217391}
+    m_SpecifySize: 1
+    m_Name: CubeObject
+    m_Texture: {fileID: 0}
